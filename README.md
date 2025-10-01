@@ -5,8 +5,6 @@ Sebuah project backend sederhana dengan **Go** yang menunjukkan:
 - Native SQL menggunakan `database/sql` (SQLite sebagai contoh)
 - Worker background dengan **goroutine** untuk auto-archive task
 
-Project ini cocok untuk dijadikan portfolio backend engineer dengan Go.
-
 ---
 
 ## 🚀 Fitur
